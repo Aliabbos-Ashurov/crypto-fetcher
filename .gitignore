@@ -142,4 +142,6 @@ fabric.properties
 /src
 /target
 /pom.xml
+/.gitignore
+/.idea
 
